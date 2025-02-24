@@ -10,10 +10,3 @@ Image processing project with Python and openCV. it detects the Egyptian License
 	2. Write video name (example 1.mp4).
 	3. Press OK.
 	4. Show the plate and view votes in terminal.
-
-### Team Members
-1. [Ayman Azzam](https://github.com/AymanAzzam).
-
-2. [Abdelrahman Elgamil](https://github.com/ajammil).
-
-3. Yousef Dawod.
